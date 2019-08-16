@@ -7,6 +7,10 @@ body{
     border-top: 2px #F00 solid;
 }
 
+.w100{
+    width: 100%;
+}
+
 nav{
     border-bottom: 1px #EEEE solid;
     margin-bottom: 10px;
@@ -59,4 +63,54 @@ nav > .navbar-brand > .logo{
 
 .owl-dots > .active{
     background: #666 !important;
+}
+
+#cards{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#slide{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background: #000;
+}
+
+.box{
+    background: #F00;
+    height: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.footer-logo{
+    width: 100%;
+}
+
+.footer-h2{
+    font-size: 20px;
+    border-bottom: 1px #FFF solid;
+    color: #FFF;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.footer-menu{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer-menu > li > a{
+    color: #FFF;
+}
+.box-bottom{
+    background: #F00;
+    padding: 10px;
+    width: 100%;
+    margin-top: 20px;
+    color: #FFF;
 }
