@@ -1,0 +1,11 @@
+1 - Criar uma nova rota para 'Site/contato'
+2 - Desenvolver pagina do layout CONTATO.jpg
+
+Enviar até o dia 23/08 - 18:00h
+Nota 1.0
+
+
+enviar para: 
+
+assunto do email -> trabalho codeigniter - contato
+email -> diogo.muneratto@faculdadefacec.edu.br
